@@ -1,4 +1,4 @@
-# newcv.github.io
+# cv.github.io
 
 Innovative Data Scientist and Engineer driving solutions through Machine Learning, AI, and Big Data Technologies.
 
